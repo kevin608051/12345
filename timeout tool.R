@@ -5,4 +5,3 @@ timeout <- function() {
   }
 }
 
-print("end")
